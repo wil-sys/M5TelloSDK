@@ -18,4 +18,3 @@
 
 
 For More information about variable names, uses, return values, etc please see this document https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf
-\
