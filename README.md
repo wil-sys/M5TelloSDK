@@ -15,3 +15,7 @@
 3: "Tello Update State" must be run for any "get" functions to return new values
 
 4: "Tello Keepalive" *Must* be run in a loop less than every 15 seconds, or else a saftey fature will activate and emergency land the drone
+
+
+For More information about variable names, uses, return values, etc please see this document https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf
+\
