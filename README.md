@@ -14,4 +14,4 @@
 
 3: "Tello Update State" must be run for any "get" functions to return new values
 
-4: "Tello Keepalive" *Must* be run in a loop less than every 15 seconds, or else a saftey fature will activate and emergency land
+4: "Tello Keepalive" *Must* be run in a loop less than every 15 seconds, or else a saftey fature will activate and emergency land the drone
